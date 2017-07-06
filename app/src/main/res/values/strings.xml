@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="banner_home_footer">ca-app-pub-5994262428181675/2681727141</string>
+    <string name="interstitial_full_screen">ca-app-pub-5994262428181675/8588659940</string>
+    <string-array name="fromCurrencies">
+        <item>AUD - Australian Dollars</item>
+        <item>BGN - Bulgarian Lev</item>
+        <item>BRL - Brazilian Real</item>
+        <item>CAD - Canadian Dollar</item>
+        <item>CHF - Swiss Franc</item>
+        <item>CNY - Chinese Yuan Renminbi</item>
+        <item>CZK - Czech Koruna</item>
+        <item>DKK - Danish Krone</item>
+        <item>GBP - British Pound</item>
+        <item>HKD - Hong Kong Dollar</item>
+        <item>HRK - Croatian Kuna</item>
+        <item>HUF - Hungarian Forint</item>
+        <item>IDR - Indonesian Rupiah</item>
+        <item>ILS - Israeli Shekel</item>
+        <item>INR - Indian Rupee</item>
+        <item>JPY - Japanese Yen</item>
+        <item>KRW - South Korean Won</item>
+        <item>MXN - Mexican Peso</item>
+        <item>MYR - Malaysian Ringgit</item>
+        <item>NOK - Norwegian Krone</item>
+        <item>NZD - New Zealand Dollar</item>
+        <item>PHP - Philippine Peso</item>
+        <item>PLN - Polish Zloty</item>
+        <item>RON - Romanian New Leu</item>
+        <item>RUB - Russian Ruble</item>
+        <item>SEK - Swedish Krona</item>
+        <item>SGD - Singapore Dollar</item>
+        <item>THB - Thai Baht</item>
+        <item>TRY - Turkish Lira</item>
+        <item>ZAR - South African Rand</item>
+        <item>EUR - Euro</item>
+        <item>USD - US Dollar</item>
+    </string-array>
+
+    <string-array name="toCurrencies">
+        <item>AUD - Australian Dollars</item>
+        <item>BGN - Bulgarian Lev</item>
+        <item>BRL - Brazilian Real</item>
+        <item>CAD - Canadian Dollar</item>
+        <item>CHF - Swiss Franc</item>
+        <item>CNY - Chinese Yuan Renminbi</item>
+        <item>CZK - Czech Koruna</item>
+        <item>DKK - Danish Krone</item>
+        <item>GBP - British Pound</item>
+        <item>HKD - Hong Kong Dollar</item>
+        <item>HRK - Croatian Kuna</item>
+        <item>HUF - Hungarian Forint</item>
+        <item>IDR - Indonesian Rupiah</item>
+        <item>ILS - Israeli Shekel</item>
+        <item>INR - Indian Rupee</item>
+        <item>JPY - Japanese Yen</item>
+        <item>KRW - South Korean Won</item>
+        <item>MXN - Mexican Peso</item>
+        <item>MYR - Malaysian Ringgit</item>
+        <item>NOK - Norwegian Krone</item>
+        <item>NZD - New Zealand Dollar</item>
+        <item>PHP - Philippine Peso</item>
+        <item>PLN - Polish Zloty</item>
+        <item>RON - Romanian New Leu</item>
+        <item>RUB - Russian Ruble</item>
+        <item>SEK - Swedish Krona</item>
+        <item>SGD - Singapore Dollar</item>
+        <item>THB - Thai Baht</item>
+        <item>TRY - Turkish Lira</item>
+        <item>ZAR - South African Rand</item>
+        <item>EUR - Euro</item>
+        <item>USD - US Dollar</item>
+    </string-array>
+</resources>
